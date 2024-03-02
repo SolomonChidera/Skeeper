@@ -50,6 +50,10 @@ web_modules/
 
 # Optional npm cache directory
 .npm
+
+# Test files that has sensitive info
+index.txt
+link.txt
 config.json
 
 # Optional eslint cache
